@@ -1,0 +1,22 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "my first node app",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jp-nullpod/node-start.git"
+  },
+  "author": "jp fortuno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jp-nullpod/node-start/issues"
+  },
+  "homepage": "https://github.com/jp-nullpod/node-start#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
